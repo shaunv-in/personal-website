@@ -27,6 +27,7 @@ a:link{
     font-size: 30px;
     text-align: center;
     letter-spacing: 4px;
+    padding: 1% 1%;
 }
 #header a.wrk,#header a.cnt{
     float: right;
