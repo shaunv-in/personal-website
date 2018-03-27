@@ -33,7 +33,11 @@ body{
 }
 #header a.wrk,#header a.cnt{
     float: right;
+    text-align: center;
+    padding-top: 1% 0%;
 }
 #header a.abt{
     float: left;
+    text-align: center;
+    padding-top: 1% 0%;
 }
