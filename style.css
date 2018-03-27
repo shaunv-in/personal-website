@@ -20,7 +20,7 @@ a:link{
     border-bottom: 4em solid;
     border-bottom-width: 34em;
 }
-#header logo{
+#header #logo{
     text-align: center;
     font-size: 34px;
     padding: 8px 0px;
