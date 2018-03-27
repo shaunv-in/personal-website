@@ -48,9 +48,11 @@ body{
 }
 #main .about .hero_text{
     text-align: center;
+    width: auto;
     font-size: 36px;
 }
 #main .about .desc{
     text-align: center;
+    width: auto;
     font-size: 18px;
 }
