@@ -34,6 +34,8 @@ body{
     float: right;
     text-align: center;
     padding-top: 1.5%;
+}
+#header > .wrapper_1 > a.wrk{
     padding-right: 1.5%;
 }
 #header > .wrapper_1 > a.cnt{
