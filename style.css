@@ -25,11 +25,11 @@ body{
 #header .wrapper_1{
     margin: 0% 2%;
 }
-#header #logo{
+#header .wrapper_1 a#logo{
     text-align: center;
     font-size: 26px;
-    text-align: center;
     letter-spacing: 2px;
+    padding-top: 1.5%;
 }
 #header a.wrk,#header a.cnt{
     float: right;
