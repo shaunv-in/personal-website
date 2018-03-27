@@ -30,11 +30,9 @@ a:link{
 }
 #header a.wrk,#header a.cnt{
     float: right;
-    margin-right: 5%;
-    text-align: center;
+    padding-right: 3%;
 }
 #header a.abt{
     float: left;
-    text-align: center;
-    margin-left: 5%; 
+    padding-left: 3%; 
 }
