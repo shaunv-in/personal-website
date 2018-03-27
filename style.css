@@ -13,7 +13,7 @@ body{
     text-align: center;
 }
 #header *{
-    margin: auto auto;
+    padding: auto auto;
 }
 a:link{
     text-decoration: none;
