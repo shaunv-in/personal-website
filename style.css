@@ -34,7 +34,7 @@ body{
 #header a.wrk,#header a.cnt{
     float: right;
     text-align: center;
-    padding-top: 1.5%;
+    padding: 1.5%;
 }
 #header a.abt{
     float: left;
