@@ -12,9 +12,6 @@ body{
     font-family: 'Roboto', sans-serif;
     text-align: center;
 }
-#header *{
-    margin: auto auto;
-}
 a:link{
     text-decoration: none;
     color: #707070;
@@ -33,9 +30,9 @@ a:link{
 }
 #header a.wrk,#header a.cnt{
     float: right;
-    padding: 2% 2%;
+    padding: 1% 1%;
 }
 #header a.abt{
     float: left;
-    padding: 2% 2%;
+    padding: 1% 1%;
 }
