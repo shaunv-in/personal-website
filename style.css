@@ -27,9 +27,9 @@ body{
 }
 #header #logo{
     text-align: center;
-    font-size: 30px;
+    font-size: 26px;
     text-align: center;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
     padding: 0.5% 0.5%;
 }
 #header a.wrk,#header a.cnt{
