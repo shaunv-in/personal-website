@@ -8,7 +8,7 @@ body{
 #header{
     background-color: #EBEBEB;
     width: 100%;
-    height: 139px;
+    height: 139em;
 }
 #header a:active{
     color: #000000;
