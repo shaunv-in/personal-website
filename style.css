@@ -28,7 +28,7 @@ body{
     text-align: center;
     font-size: 26px;
     letter-spacing: 2px;
-    padding-top: 3%;
+    color: #000000;
 }
 #header > .wrapper_1 > a.wrk,#header > .wrapper_1 > a.cnt{
     float: right;
