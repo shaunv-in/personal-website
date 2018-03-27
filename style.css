@@ -34,10 +34,10 @@ body{
 #header a.wrk,#header a.cnt{
     float: right;
     text-align: center;
-    padding-top: 1% 0%;
+    padding-top: 1.5%;
 }
 #header a.abt{
     float: left;
     text-align: center;
-    padding-top: 1% 0%;
+    padding-top: 1.5%;
 }
