@@ -12,6 +12,9 @@ body{
     font-family: 'Roboto', sans-serif;
     text-align: center;
 }
+#header *{
+    margin: auto auto;
+}
 a:link{
     text-decoration: none;
     color: #707070;
