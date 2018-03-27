@@ -16,12 +16,12 @@ body{
     text-decoration: none;
     color: #707070;
 }
-/** #header a:active{
+#header a:active{
     color: #000000;
     text-decoration: none;
-    border-bottom: 4em solid;
-    border-bottom-width: 34em;
-} **/
+    border-bottom: 1em solid;
+    border-bottom-width: 1em;
+}
 #header .wrapper_1{
     margin: 0% 2%;
 }
