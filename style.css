@@ -24,22 +24,26 @@ body{
 #header .wrapper_1{
     margin: 0% 2%;
 }
-#header .wrapper_1 a.logo{
+#header > .wrapper_1 > a.logo{
     text-align: center;
     font-size: 26px;
     letter-spacing: 2px;
     padding-top: 3%;
 }
-#header a.wrk,#header a.cnt{
+#header > .wrapper_1 > a.wrk,#header > .wrapper_1 > a.cnt{
     float: right;
     text-align: center;
     padding-top: 1.5%;
     padding-right: 1.5%;
 }
-#header a.abt{
+#header > .wrapper_1 > a.cnt{
+    padding-right: 1%;
+}
+#header > .wrapper_1 > a.abt{
     float: left;
     text-align: center;
     padding-top: 1.5%;
+    padding-left: 1%;
 }
 #main{
     width: 100%;
