@@ -12,4 +12,7 @@ body{
 }
 #header a:active{
     color: #000000;
+    text-decoration: none;
+    border-bottom: 4em solid;
+    border-bottom-width: 34em;
 }
