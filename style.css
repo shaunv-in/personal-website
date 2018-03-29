@@ -9,56 +9,65 @@ body{
     background-color: #EBEBEB;
     width: 100%;
     height: 50px;
+    text-align: center;
     font-family: 'Roboto', sans-serif;
 }
-#header a:link{
+#header a{
     text-decoration: none;
-    color: #707070;
-}
-#header a:active{
+    position: relative;
+    top: 14px;
+    font-size: 18px;
     color: #000000;
-    text-decoration: none;
-    border-bottom: 1em solid;
-    border-bottom-width: 1em;
-}
-#header .wrapper_1{
-    margin: 0% 2%;
-}
-#header > .wrapper_1 > a.logo{
-    text-align: center;
-    font-size: 26px;
-    letter-spacing: 2px;
-    color: #000000;
-}
-#header > .wrapper_1 > a.wrk,#header > .wrapper_1 > a.cnt{
-    float: right;
-    text-align: center;
-    padding-top: 1.5%;
-}
-#header > .wrapper_1 > a.wrk{
-    padding-right: 1.5%;
-}
-#header > .wrapper_1 > a.cnt{
-    padding-right: 1%;
-}
-#header > .wrapper_1 > a.abt{
-    float: left;
-    text-align: center;
-    padding-top: 1.5%;
-    padding-left: 1%;
+    font-weight: 100;
 }
 #main{
     width: 100%;
-    height: auto;
+    height: 300px;
+    text-align: center;
     font-family: 'Roboto', sans-serif;
 }
-#main .about .hero_text{
-    text-align: center;
-    width: auto;
-    font-size: 36px;
+#main h2{
+    color: #B9B9B9;
+    font-weight: 100;
+    font-size: 50px;
+    position: relative;
+    top: 35%;
+    letter-spacing: 3px;
 }
-#main .about .desc{
-    text-align: center;
-    width: auto;
-    font-size: 18px;
+#main h3{
+    color: #B9B9B9;
+    font-weight: 100;
+    font-size: 25px;
+    position: relative;
+    top: 35%;
+    letter-spacing: 2.5px;
+}
+#works{
+    width: 100%;
+    height: 700px;
+}
+#works div{
+    width: 80%;
+    height: 35%;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    background-color: #FFFFD3;
+}
+#works div:nth-child(2){
+    background-color: #E6FFD3;
+}
+#works div:nth-child(3){
+    background-color: #D3FFFD;
+}
+#contact{
+    width: 100%;
+    height:500px;
+    font-family: 'Roboto', sans-serif;
+    position: fixed;
+}
+#contact div{
+    width: 100px;
+    height: 5px;
+    background-color: #000000;
 }
