@@ -11,6 +11,7 @@ body{
     height: 50px;
     text-align: center;
     font-family: 'Roboto', sans-serif;
+    position: fixed;
 }
 #header a{
     text-decoration: none;
